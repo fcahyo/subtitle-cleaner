@@ -1,4 +1,4 @@
-# subtitle-cleaning
+# subtitle-cleaner
 Remove unimportant information from subtitle with regular expression using python
 
 The regular expressions are used for:
